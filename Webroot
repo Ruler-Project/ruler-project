@@ -1,6 +1,8 @@
 Text files in ProgramData
-Data in the registry
+C:\ProgramData\WRData
 
+Data in the registry
+SOFTWARE-->WOW6432Node\WRData\ 
 
 Additional Reading:
 https://download.webroot.com/WSABLogs_User_Guide.pdf
