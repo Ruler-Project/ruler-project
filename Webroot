@@ -1,6 +1,9 @@
 Text files in ProgramData
 C:\ProgramData\WRData
 
+- WRLog.log - scan results (inlcuding hashes for detections).
+- timestamps are in local time (DDD dd-mm-yyyy hh:mm:ss.ssss)
+
 Data in the registry
 SOFTWARE-->WOW6432Node\WRData\ 
 
