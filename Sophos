@@ -1,0 +1,14 @@
+
+#Logs:
+##Event Logs
+Application.evtx
+
+##Application specific
+C:\ProgramData\Sophos\Sophos Anti-Virus\logs
+- sav.txt
+yyyymmdd hhmmss $message
+
+Some messages go over a line
+
+#Registry:
+details to be added
