@@ -8,7 +8,12 @@ C:\ProgramData\Sophos\Sophos Anti-Virus\logs
 - sav.txt
 yyyymmdd hhmmss $message
 
-Some messages go over a line
+Notes: Some messages go over a line
+dates/times are in UTC
+
+Useful grep searches
+"belongs to"
+"User (.*) has stopped on-access scanning for this machine."
 
 #Registry:
 details to be added
