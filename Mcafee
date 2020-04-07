@@ -1,0 +1,26 @@
+#Logs
+##Event logs
+Unsure
+
+##Application specific
+
+* ProgramData\McAfee\DesktopProtection
+  * AccessProtectionLog.txt
+  * EmailOnDeliveryLog.txt
+  * EmailOnDemandLog.txt
+  * FullScanLog.txt
+  * MemoryScanLog.txt
+  * OnAccessScanLog.txt
+  * OnDemandScanLog.txt
+  * UpdateLog.txt
+
+Logs can also have .bak files.
+
+###OnAccessScanLog.txt
+Timestamps appear to be in local.
+
+Example:
+M/DD/YYYY       H:MM:SS AM      Script execution blocked        DOMAIN\USER C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE   Script executed by IEXPLORE.EXE Exploit-CVE2018-8174 (Trojan)
+
+Useful grep for "CVE" or "blocked"
+Also includes scanning activity
