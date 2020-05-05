@@ -5,4 +5,6 @@ as well as the SEP logs from C:\ProgramData\Symantec\Symantec Endpoint Protectio
 
 The .VBN file can be decompress with -- http://hexacorn.com/d/DeXRAY.pl 
 
-The log file is generally readable with these macros available from the SEP support team -- https://knowledge.broadcom.com/external/article/151245/interpreting-endpoint-protection-av-log.html  
+The log file is generally readable with these macros available from the SEP support team -- https://knowledge.broadcom.com/external/article/151245/interpreting-endpoint-protection-av-log.html
+
+brian maloneys stuff may be better: https://github.com/Beercow/SEPparser/blob/master/VBN_File_Format.html
