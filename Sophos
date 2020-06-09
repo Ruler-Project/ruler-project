@@ -8,12 +8,15 @@ C:\ProgramData\Sophos\Sophos Anti-Virus\logs
 - sav.txt
 yyyymmdd hhmmss $message
 
+Log files need to be converted before viewing, `iconv -f UTF-16LE -t UTF-8`
+
 Notes: Some messages go over a line
 dates/times are in UTC
 
 Useful grep searches
 "belongs to"
 "User (.*) has stopped on-access scanning for this machine."
+    - where use is not "NT AUTHORITY\LOCAL SERVICE"
 "A threat has been blocked and quarantined."
 
 #Registry:
