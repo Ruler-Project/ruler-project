@@ -13,6 +13,9 @@ Unsure
   * OnAccessScanLog.txt
   * OnDemandScanLog.txt
   * UpdateLog.txt
+  * FirewallEventMonitor.log
+  * Firewall_Activity.log
+  * Firewall_Debug.log
 
 Logs can also have .bak files.
 
@@ -24,3 +27,8 @@ M/DD/YYYY       H:MM:SS AM      Script execution blocked        DOMAIN\USER C:\P
 
 Useful grep for "CVE" or "blocked"
 Also includes scanning activity
+
+
+
+##References:
+https://docs.mcafee.com/bundle/endpoint-security-10.5.0-firewall-product-guide-epolicy-or%20hestrator-windows/page/GUID-397CFD36-3ACE-4047-915C-CDC77527D53C.html* F
