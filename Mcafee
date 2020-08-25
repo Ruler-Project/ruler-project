@@ -28,7 +28,25 @@ M/DD/YYYY       H:MM:SS AM      Script execution blocked        DOMAIN\USER C:\P
 Useful grep for "CVE" or "blocked"
 Also includes scanning activity
 
+### FirewallEventMonitor.log
+Appears to be in local time
 
+Convert:
+print ("Time,Event,IP Address,Description,Path,Message,Matched Rule")
+
+f  = open("FirewallEventMonitor.log", "r") 
+contents = f.read()
+contents = contents.replace("\n", "\",\"")
+contents = contents.replace(",\"\",\"", "\n")
+contents = contents.replace("Time:\t ", "")
+contents = contents.replace("Event:  ", "")
+contents = contents.replace("IP Address:  ", "")
+contents = contents.replace("Description:  ", "")
+contents = contents.replace("Path:  ", "")
+contents = contents.replace("Message:      ", "")
+contents = contents.replace("Matched Rule:  ", "")
+print (contents)
+f.close()
 
 ##References:
 https://docs.mcafee.com/bundle/endpoint-security-10.5.0-firewall-product-guide-epolicy-or%20hestrator-windows/page/GUID-397CFD36-3ACE-4047-915C-CDC77527D53C.html* F
