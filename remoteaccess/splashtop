@@ -1,0 +1,8 @@
+
+Event logs
+
+Splashtop-Splashtop Streamer-Remote Session%4Operational.evtx
+1000 - Session connection
+    - SPID and source name which may be a computer name
+1001 - Session disconnection
+    - provides session duration
