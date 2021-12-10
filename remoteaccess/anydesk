@@ -1,3 +1,12 @@
+#Log file
+ad.trace
+connection_trace.txt
+user.conf
+
+Useful greps:
+Remote connection - "anynet.relay_conn" or "logged in from" - the IP may be the connected computer. 
+File transfer - "app.prepare_task"
+
 ### Source
 https://medium.com/mii-cybersec/digital-forensic-artifact-of-anydesk-application-c9b8cfb23ab5
 https://www.inversecos.com/2021/02/forensic-analysis-of-anydesk-logs.html
