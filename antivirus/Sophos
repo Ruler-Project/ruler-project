@@ -1,9 +1,11 @@
+# Sophos
 
-#Logs:
-##Event Logs
-Application.evtx
+## Event Logs
 
-##Application specific
+* Application.evtx
+
+## Application specific logs
+
 C:\ProgramData\Sophos\Sophos Anti-Virus\logs
 - sav.txt
 yyyymmdd hhmmss $message

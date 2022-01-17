@@ -1,8 +1,9 @@
-#Logs
-##Event logs
+# McAfee
+
+## Event logs
 Unsure
 
-##Application specific
+## Application specific files
 
 * ProgramData\McAfee\DesktopProtection or ProgramData\McAfee\Endpoint Security\Logs
   * AccessProtectionLog.txt
@@ -33,7 +34,6 @@ Also includes scanning activity
 Example:
 2021-10-12 01:10:34.822Z    |Activity|oasbl               |mfetp                    |      4716|      8700|OAS                 |oasbl.cpp(2428)                         | DOMAIN\User ran PROCESS, which attempted to access FILE. The Trojan named TROJANNAME was detected and deleted.
 
-
 ### AdaptiveThreatProtection_Activity.log
 
 DATE UTC    |Activity|Orchestrator        |mfeatp                   |      6336|     11956|Action              |post_scan_actions.cpp(3511)             | Action Details::  File: regsvr32.exe , Mode: Enforce , Scanner: On-Execute Scan , Detection Name: ATP/Suspect!6e5498e81964 , Reputation: 15  [Most Likely Malicious] , ActionTaken: Would Block  Rule id: 309 , Content Version: Not Available
@@ -61,5 +61,5 @@ contents = contents.replace("Matched Rule:  ", "")
 print (contents)
 f.close()
 
-##References:
+## References:
 https://docs.mcafee.com/bundle/endpoint-security-10.5.0-firewall-product-guide-epolicy-or%20hestrator-windows/page/GUID-397CFD36-3ACE-4047-915C-CDC77527D53C.html* F
