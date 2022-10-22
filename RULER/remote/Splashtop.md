@@ -14,3 +14,7 @@ Splashtop-Splashtop Streamer-Remote Session%4Operational.evtx
 * SplashtopStreamer.*.exe
 * unpack,.log
 * PreVer.log
+
+## References
+
+* https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
