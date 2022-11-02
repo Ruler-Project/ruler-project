@@ -27,3 +27,4 @@ details to be added
 
 #Vendor documentation:
 https://community.sophos.com/kb/en-us/133912
+https://support.sophos.com/support/s/article/KB-000038787?language=en_US#Sendpointdef
