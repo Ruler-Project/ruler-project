@@ -1,0 +1,98 @@
+site_name: The RULER Project
+
+site_description: The Really Useful Logging and Event Repository Project
+copyright: Phill Moore, 2021
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: amber
+    accent: orange
+  features:
+    - navigation.tabs
+    - navigation.top
+
+#extra:
+#  analytics:
+# https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/#cookie-consent
+#    provider: google
+#    property: G-XXXXXXXXXX
+
+nav:
+    - Home: 'index.md'
+    - Repository:
+        # - 'Endpoint Detection and Response':
+        #     - CarbonBlack: 'RULER/edr/CarbonBlack.md'
+        #     - CrowdStrike: 'RULER/edr/CrowdStrike.md'
+        #     - Cybereason: 'RULER/edr/Cybereason.md'
+        #     - Cylance: 'RULER/edr/Cylance.md'
+        #     - 'Kaspersky Endpoint Security for Windows': 'RULER/edr/Kaspersky Endpoint Security for Windows.md'
+        #     - 'Mcafee EPO': 'RULER/edr/Mcafee EPO.md'
+        #     - SentinelOne: 'RULER/edr/SentinelOne.md'
+        - 'Anti-Virus':
+            - AVG: 'RULER/av/AVG.md'
+            - Avast: 'RULER/av/Avast.md'
+            - Avira: 'RULER/av/Avira.md'
+            - Bitdefender: 'RULER/av/Bitdefender.md'
+            - Combofix: 'RULER/av/Combofix.md'
+            - ESET: 'RULER/av/ESET.md'
+            - Emsisoft: 'RULER/av/Emsisoft.md'
+            - Fsecure: 'RULER/av/Fsecure.md'
+            - HitmanPro: 'RULER/av/HitmanPro.md'
+            - Kaspersky: 'RULER/av/Kaspersky.md'
+            - Malwarebytes: 'RULER/av/Malwarebytes.md'
+            - Mcafee: 'RULER/av/Mcafee.md'
+            - 'Microsoft Defender': 'RULER/av/Microsoft Defender.md'
+            - 'N-able AVDefender': 'RULER/av/N-able AVDefender.md'
+            - 'RogueKiller Anti-Malware': 'RULER/av/RogueKiller Anti-Malware.md'
+            - SUPERAntiSpyware: 'RULER/av/SUPERAntiSpyware.md'
+            - SecureAge: 'RULER/av/SecureAge.md'
+            - Sophos: 'RULER/av/Sophos.md'
+            - Symantec: 'RULER/av/Symantec.md'
+            - 'TotalAV Antivirus': 'RULER/av/TotalAV Antivirus.md'
+            - 'Trend Micro': 'RULER/av/Trend Micro.md'
+            - VIPRE: 'RULER/av/VIPRE.md'
+            - Webroot: 'RULER/av/Webroot.md'
+        # - 'Mail':
+        #     - 'Microsoft Exchange': 'RULER/mail/Microsoft Exchange.md'
+        # - 'Web':
+        #     - Apache: 'RULER/web/Apache.md'
+        #     - IIS: 'RULER/web/IIS.md'
+        #     - Tomcat: 'RULER/web/Tomcat.md'
+        # - 'Sychronisation':
+        #     - Dropbox: 'RULER/sync/Dropbox.md'
+        #     - 'Google Drive': 'RULER/sync/Google Drive.md'
+        #     - Megasync: 'RULER/sync/Megasync.md'
+        #     - OneDrive: 'RULER/sync/OneDrive.md'
+        - 'Remote Administration/Access applications':
+            - AmmyAdmin: 'RULER/remote/AmmyAdmin.md'
+            - AnyDesk: 'RULER/remote/AnyDesk.md'
+            - Atera: 'RULER/remote/Atera.md'
+            - 'Citrix GoToMyPC': 'RULER/remote/Citrix GoToMyPC.md'
+            - Kaseya: 'RULER/remote/Kaseya.md'
+            - LogMeIn: 'RULER/remote/LogMeIn.md'
+            - RealVNC: 'RULER/remote/RealVNC.md'
+            - Splashtop: 'RULER/remote/Splashtop.md'
+            - Screenconnect: 'RULER/remote/Screenconnect.md'
+            - TeamViewer: 'RULER/remote/TeamViewer.md'
+            - TightVNC: 'RULER/remote/TightVNC.md'
+            - UltraVNC: 'RULER/remote/UltraVNC.md'
+            - Ultraviewer: 'RULER/remote/Ultraviewer.md'
+    - Resources: 'resources.md'
+    - Contact: contact.md
+
+plugins:
+    - search
+
+markdown_extensions:
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
