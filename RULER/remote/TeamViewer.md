@@ -15,3 +15,4 @@ Entries are recorded in UTC
 * https://kyl3song.github.io/artifacts/IPv6-in-TeamViewer(v15)-part-1/
 * https://kyl3song.github.io/artifacts/IPv6-in-TeamViewer(v15)-part-2.-EN/
 * https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1166&context=adf
+* https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
