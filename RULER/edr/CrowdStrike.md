@@ -1,3 +1,0 @@
-# CrowdStrike
-
-To be started
