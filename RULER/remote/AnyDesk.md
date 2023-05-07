@@ -6,6 +6,12 @@
 * connection_trace.txt
 * user.conf
 
+## Log Paths
+
+* C:\Users\%user%\AppData\Roaming\AnyDesk\
+* C:\ProgramData\AnyDesk\
+
+
 Useful greps:
 Remote connection - "anynet.relay_conn" or "logged in from" - the IP may be the connected computer. 
 File transfer - "app.prepare_task"
