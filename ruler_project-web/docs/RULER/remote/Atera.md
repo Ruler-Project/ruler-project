@@ -8,6 +8,8 @@ Splashtop may be seen in conjunction with Atera RMM usage which is embeddded, bu
 * EID 7045 in System for Service installation event
 * EID 4688 Process tracking may show file transfers (B64 encoded data)
 
+Atera may also log in Application event logs under AlphaAgent or AteraAgent
+
 ## Log files
 
 |Log Path|Notes|Timestamp
