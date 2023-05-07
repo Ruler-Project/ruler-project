@@ -1,6 +1,5 @@
 # Citrix GoToMyPC
 
-
 ## Registry
 
 |Registry key|Notes
