@@ -59,8 +59,10 @@ Possible values of interest:
 * Client_DisplayName
 * UDID
 * DeviceName
+* Client_IP
 
 ## References
 
 1. https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 1. https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/360001692992
+1. https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf
