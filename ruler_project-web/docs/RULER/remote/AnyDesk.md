@@ -4,8 +4,7 @@ Remote desktop application that can be installed or run as a portable applicatio
 
 ## Application specific files
 
-File paths:
-|File paths||
+|Platform|File paths|
 |-|-|
 |Windows|%APPDATA%\AnyDesk\Logs\
 ||%ProgramData%\AnyDesk\Logs\
@@ -13,22 +12,24 @@ File paths:
 |Mac|~/Library/Application Support/AnyDesk/Logs/
 |Linux| ~/.config/AnyDesk/Logs/
 
-|Filename|Information|
-|-|-|
-|ad.trace|history, errors, system notifications. Incoming and outgoing connections|
-|ad_svc.trace Log|AnyDesk service logs - history, errors, system notifications. Incoming and outgoing connections with IP addresses|
-|connection_trace.txt|Incoming connections - Date/Time, status, alias and ID of AnyDesk|
-|user.conf|may contain attacker username if file transfer has been attempted [5]|
+|Filename|Notes|Timestamp format
+|-|-|-|
+|ad.trace|history, errors, system notifications. Incoming and outgoing connections|YYYY-MM-DD HH:MM:SS.SSS
+|ad_svc.trace Log|AnyDesk service logs - history, errors, system notifications. Incoming and outgoing connections with IP addresses|YYYY-MM-DD HH:MM:SS.SSS
+|connection_trace.txt|Incoming connections - Date/Time, status, alias and ID of AnyDesk|YYYY-MM-DD, HH:MM
+|user.conf|configuration variables used by AnyDesk,may contain attacker username if file transfer has been attempted [5]|
+|system.conf|configuration variables used by AnyDesk|
 |chat log|Conversation history named after the AnyDesk ID|
 
 ad_svc.trace is only available in installed versions of AnyDesk.[1]
+
 AnyDesk ID is related to the installation - so it's not that useful for tracking.[1]
 
 ## Log analysis
 
 Log Timezone: UTC
 
-|||
+|Search term|Description|
 |-|-|
 |New user data. Client-ID:| Client ID based on install.
 |Connecting to|Outgoing connection
@@ -64,3 +65,4 @@ AnyDesk may be used by admins but it's commonly installed by ransomware operator
 1. https://support.anydesk.com/knowledge/anydesk-id-and-alias
 1. https://vikas-singh.notion.site/vikas-singh/Remote-Access-Software-Forensics-3e38d9a66ca0414ca9c882ad67f4f71b
 1. https://www.iblue.team/incident-response-1/anydesk-remote-access
+1. https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
