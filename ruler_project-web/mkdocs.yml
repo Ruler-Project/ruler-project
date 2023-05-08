@@ -74,7 +74,7 @@ nav:
             - LogMeIn: 'RULER/remote/LogMeIn.md'
             - RealVNC: 'RULER/remote/RealVNC.md'
             - Splashtop: 'RULER/remote/Splashtop.md'
-            - Supremo: 'RULER/remote/Supremo.md'
+            - SupRemo: 'RULER/remote/SupRemo.md'
             - Connectwise/Screenconnect: 'RULER/remote/Connectwise_Screenconnect.md'
             - TeamViewer: 'RULER/remote/TeamViewer.md'
             - TightVNC: 'RULER/remote/TightVNC.md'
