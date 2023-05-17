@@ -103,6 +103,7 @@ markdown_extensions:
   - footnotes
   - admonition
   - pymdownx.details
+  - pymdownx.caret
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
