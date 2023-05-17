@@ -1,0 +1,7 @@
+/* styles.css */
+
+/* Override table heading styles */
+.md-typeset table thead th {
+  background-color: #BD8F04;
+  color: white;
+}

@@ -27,11 +27,8 @@ theme:
     - navigation.instant
     - navigation.indexes
 
-#extra:
-#  analytics:
-# https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/#cookie-consent
-#    provider: google
-#    property: G-XXXXXXXXXX
+extra_css:
+- stylesheets/extra.css
 
 nav:
     - Home: 'index.md'
