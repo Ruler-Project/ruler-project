@@ -34,4 +34,4 @@ Registry key updated on install
 
 1. https://github.com/Velocidex/velociraptor-docs/blob/master/content/exchange/artifacts/AteraNetworks.yaml
 1. https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
-1. https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf
+1. [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)

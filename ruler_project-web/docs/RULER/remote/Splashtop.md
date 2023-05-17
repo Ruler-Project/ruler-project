@@ -14,13 +14,13 @@ Service install for "SplashtopRemoteService"
 
 ## Application logs
 
-Splashtop website indicates that it has logging available through the web platform, which may not be useful in an intrusion where the threat actor has installed their own version of Splashtop [2]
+Splashtop website indicates that it has logging available through the web platform, which may not be useful in an intrusion where the threat actor has installed their own version of Splashtop ^[2]^
+
 * Session logs
 * File transfer logs
 * Chat session logs
 * History logs
 * Event logs
-
 
 |Log file|Notes|Timestamp
 |-|-|-
@@ -34,7 +34,7 @@ Splashtop website indicates that it has logging available through the web platfo
 Splashtop Gateway:
 
 * %programfiles%\Splashtop\Splashtop Remote\Splashtop Gateway\log
-* %programfiles(x86)%\Splashtop\Splashtop Remote\Splashtop Gateway\log 
+* %programfiles(x86)%\Splashtop\Splashtop Remote\Splashtop Gateway\log
 
 Splashtop Streamer:
 
@@ -44,7 +44,7 @@ Windows | C:\Program Files (x86)\Splashtop\Splashtop Remote\Server\SPLog.*
 Mac | /Users/Shared/SplashtopStreamer/SPLog.txt
 Mac | ~/Library/Logs/SPLog.txt
 
-## Install files:
+## Install files
 
 * SplashtopStreamer.*.exe
 * unpack,.log
@@ -65,4 +65,4 @@ Possible values of interest:
 
 1. https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 1. https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/360001692992
-1. https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf
+1. [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)

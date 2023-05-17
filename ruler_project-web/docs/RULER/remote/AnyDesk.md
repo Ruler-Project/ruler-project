@@ -67,4 +67,4 @@ AnyDesk may be used by admins but it's commonly installed by ransomware operator
 1. https://www.iblue.team/incident-response-1/anydesk-remote-access
 1. https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 1. https://www.youtube.com/watch?v=0qSWfbti4yM&list=PLfouvuAjspToNFRwt0ssrvaSMI11RcSgp&index=7
-1. https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf
+1. [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)
