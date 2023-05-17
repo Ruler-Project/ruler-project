@@ -10,6 +10,7 @@
 
 Timestamp format: MM/DD/YYYY hh:MM:SS AM
 Pipe delimited files.
+No IP addresses
 
 ## References
 
