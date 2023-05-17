@@ -25,6 +25,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.instant
+    - navigation.indexes
 
 #extra:
 #  analytics:
@@ -44,6 +45,7 @@ nav:
         #     - 'Mcafee EPO': 'RULER/edr/Mcafee EPO.md'
         #     - SentinelOne: 'RULER/edr/SentinelOne.md'
         - 'Anti-Virus':
+            - 'RULER/av/index.md'
             - AVG: 'RULER/av/AVG.md'
             - Avast: 'RULER/av/Avast.md'
             - Avira: 'RULER/av/Avira.md'
@@ -79,6 +81,7 @@ nav:
         #     - Megasync: 'RULER/sync/Megasync.md'
         #     - OneDrive: 'RULER/sync/OneDrive.md'
         - 'Remote Administration/Access applications':
+            - 'RULER/remote/index.md'
             - AmmyAdmin: 'RULER/remote/AmmyAdmin.md'
             - AnyDesk: 'RULER/remote/AnyDesk.md'
             - Atera: 'RULER/remote/Atera.md'
