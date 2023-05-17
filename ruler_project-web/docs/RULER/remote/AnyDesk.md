@@ -17,13 +17,13 @@ Remote desktop application that can be installed or run as a portable applicatio
 |ad.trace|history, errors, system notifications. Incoming and outgoing connections|YYYY-MM-DD HH:MM:SS.SSS
 |ad_svc.trace Log|AnyDesk service logs - history, errors, system notifications. Incoming and outgoing connections with IP addresses|YYYY-MM-DD HH:MM:SS.SSS
 |connection_trace.txt|Incoming connections - Date/Time, status, alias and ID of AnyDesk|YYYY-MM-DD, HH:MM
-|user.conf|configuration variables used by AnyDesk,may contain attacker username if file transfer has been attempted [5]|
+|user.conf|configuration variables used by AnyDesk,may contain attacker username if file transfer has been attempted ^[5]^|
 |system.conf|configuration variables used by AnyDesk|
 |chat log|Conversation history named after the AnyDesk ID|
 
-ad_svc.trace is only available in installed versions of AnyDesk.[1]
+ad_svc.trace is only available in installed versions of AnyDesk.^[1]^
 
-AnyDesk ID is related to the installation - so it's not that useful for tracking.[1]
+AnyDesk ID is related to the installation - so it's not that useful for tracking.^[1]^
 
 ## Log analysis
 

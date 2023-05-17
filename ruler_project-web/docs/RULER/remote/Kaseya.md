@@ -5,13 +5,14 @@ The events are recorded in the logs for the agents.
 
 Interaction is performed through a webapp (that has an installed application for liveconnect on the host)
 
-# Application logs
+## Application logs
 
 * `C:\ProgramData\Kaseya\Log\Endpoint\Instance_KSAAS###############\KaseyaEndpoint\KaseyaEndpoint-YYYY-MM-DDTHH-MM-SSZ.log`
 * `C:\ProgramData\Kaseya\Log\Endpoint\Instance_KSAAS###############\\Session_92fb5231-0009-44af-bd31-425bf26b8060`
 
-### Connection:
-YYYY-MM-DDTHH:MM:SS.SSSSSSZ (UTC)
+### Connection
+
+Timestamp format: YYYY-MM-DDTHH:MM:SS.SSSSSSZ (UTC)
 
 * `[I 2020-01-24T04:46:16.419139Z +00:00  3160  f18] [AgentRemoteControlSession] Remote Control Session Jwt is valid`
 
@@ -19,7 +20,7 @@ YYYY-MM-DDTHH:MM:SS.SSSSSSZ (UTC)
 
 ### Disconnection
 
-*  `[I 2020-01-24T04:47:00.268159Z +00:00  3160  f1c] [AgentRemoteControlSession] Ending remote control session`
+* `[I 2020-01-24T04:47:00.268159Z +00:00  3160  f1c] [AgentRemoteControlSession] Ending remote control session`
 * `[I 2020-01-24T04:47:00.268159Z +00:00  3160  f1c] [RemoteControlApplicationService] Shutting down Remote Control Instance #92fb5231-0009-44af-bd31-425bf26b8060`
 
 ## References

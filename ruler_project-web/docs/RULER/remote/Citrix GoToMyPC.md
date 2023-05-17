@@ -9,7 +9,7 @@
 |`HKEY_CURRENT_USER\SOFTWARE\Citrix\GoToMyPc\FileTransfer\history`|hostname of the computer making connections and location of transferred files
 |`HKEY_USERS\<SID>\SOFTWARE\Citrix\GoToMyPc\FileTransfer\history`|hostname of the computer making connections and location of transferred files
 
-"Citrix GoToMyPc application did not log any access or connection logs on the local computer."[1]
+"Citrix GoToMyPc application did not log any access or connection logs on the local computer."^[1]^
 
 ## References
 
