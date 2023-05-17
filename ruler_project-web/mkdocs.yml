@@ -3,15 +3,28 @@ site_name: The RULER Project
 site_description: The Really Useful Logging and Event Repository Project
 copyright: Phill Moore, 2021
 
+
 theme:
   name: material
-  palette:
-    scheme: slate
-    primary: amber
-    accent: orange
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: amber
+      accent: orange
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: amber
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.instant
 
 #extra:
 #  analytics:
