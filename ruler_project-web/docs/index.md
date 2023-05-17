@@ -7,7 +7,7 @@ I was often coming across issues where I would see logs from different applicati
 For example - what are the quick wins in a remote access application to identify when it was used.
 Or what types of useful information can be found for a specific anti-virus application (especially if it encodes the data)
 
-The bulk of this is compiled from the references listed on each page. Full credit goes to everyone that put in a lot of hard work and tested each of these applications. It does take time to put together each resource and I'm very grateful to be able to help curate and centralise this knowledge in the hopes that it helps speed up investigations. 
+The bulk of this is compiled from the references listed on each page. Full credit goes to everyone that put in a lot of hard work and tested each of these applications. It does take time to put together each resource and I'm very grateful to be able to help curate and centralise this knowledge in the hopes that it helps speed up investigations.
 
 !!! error "Caveat Emptor"
     It should be noted that this information should be used as a guide only. What is and isn't recorded by an application may be similar across products made by an organisation, or may be vastly different between application versions. Should you choose to rely on this information without testing it for yourself you do so at your own risk.
