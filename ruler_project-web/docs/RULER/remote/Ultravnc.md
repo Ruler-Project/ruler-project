@@ -9,6 +9,7 @@
 
 ## Application specific log files
 
+Logs are stored in the following location:
 `%ProgramData%\uvnc bvba\mslogon.log`
 
 Timestamp format: DD/M/YYYY HH:MM
