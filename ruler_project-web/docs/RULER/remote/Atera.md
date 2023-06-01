@@ -4,9 +4,11 @@ Splashtop may be seen in conjunction with Atera RMM usage which is embeddded, bu
 
 ## Event logs
 
-* EID 11707 for MsiInstaller for MSI installation
-* EID 7045 in System for Service installation event
-* EID 4688 Process tracking may show file transfers (B64 encoded data)
+|Event Log | Event ID | Provider | Notes
+|-|-|-|-
+|System|11707|MsiInstaller|MSI installation event|
+|System|7045||Service installation
+|Security|4688|Security|File transfers may be shown as 64 encoded data
 
 Atera may also log in Application event logs under AlphaAgent or AteraAgent
 
