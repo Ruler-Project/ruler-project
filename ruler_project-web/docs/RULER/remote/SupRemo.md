@@ -8,11 +8,11 @@ Log folder: `%ProgramData%\SupremoRemoteDesktop\Log\`
 Timestamp format: YYYY-MM-DD HH:MM:SS:SSS
 
 |Log file|Notes
-|-|-|-
+|-|-
 |SupremoService.00.Service.log|Software install
-|Supremo.00.Client.log|Connected with ID
-|Supremo.00.Incoming.log|?
-|Supremo.00.ReportsQueue.log|Hostname of the attacker
+|Supremo.00.Client.log|"Connected with ID"
+|Supremo.00.Incoming.log|Hostname of the attacker
+|Supremo.00.ReportsQueue.log|Start and end of the session
 |Supremo.00.FileTransfer.log|Received file or Sent file
 
 Network connections to "nanosystems.it" on 443/5938
