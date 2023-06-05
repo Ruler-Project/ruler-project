@@ -6,8 +6,8 @@
 
 ## Application specific logs
 
-Path: C:\Documents and Settings\All Users\Application Data\Sophos\Sophos *\Logs\
-Path: C:\ProgramData\Sophos\Sophos *\Logs\
+* `C:\Documents and Settings\All Users\Application Data\Sophos\Sophos *\Logs\`
+* `C:\ProgramData\Sophos\Sophos *\Logs\`
 
 C:\ProgramData\Sophos\Sophos Anti-Virus\logs
 - sav.txt
@@ -28,8 +28,6 @@ Useful grep searches
 
 details to be added
 
-
 ## References
-
-https://community.sophos.com/kb/en-us/133912
-https://support.sophos.com/support/s/article/KB-000033591?language=en_US
+[^1]: [](https://community.sophos.com/kb/en-us/133912)
+[^2]: [](https://support.sophos.com/support/s/article/KB-000033591?language=en_US)

@@ -2,15 +2,16 @@
 
 ## Event logs
 
-## Registry
-
 ## Application specific files
 
-Path: C:\Documents and Settings\All Users\Application Data\AVG\Antivirus\log
-Path: C:\Documents and Settings\All Users\Application Data\AVG\Antivirus\report
-Path: C:\ProgramData\AVG\Antivirus\log
-Path: C:\ProgramData\AVG\Antivirus\report
+* `C:\Documents and Settings\All Users\Application Data\AVG\Antivirus\log`
+* `C:\Documents and Settings\All Users\Application Data\AVG\Antivirus\report`
+* `C:\ProgramData\AVG\Antivirus\log`
+* `C:\ProgramData\AVG\Antivirus\report`
 
 ## Quarantine
 
+## Registry
+
 ## References
+[^1]: [Base Antivirus Logs](https://businesshelp.avg.com/Content/Products/General_Help/LogLocations/BaseAntivirusLogs.htm)

@@ -18,3 +18,5 @@ Unknown
     - table: entries
     - fields: Quarid, path, threat, status, size, quartime, acctime, modtime, scanflags, usersid
     - notes: timestamps are unix timestamps
+
+## References

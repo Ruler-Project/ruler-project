@@ -61,7 +61,6 @@ contents = contents.replace("Matched Rule:  ", "")
 print (contents)
 f.close()
 
-## References:
-
-* https://docs.mcafee.com/bundle/endpoint-security-10.5.0-firewall-product-guide-epolicy-or%20hestrator-windows/page/GUID-397CFD36-3ACE-4047-915C-CDC77527D53C.html* F
-* https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Antivirus/McAfee.tkape
+## References
+[^1]: https://docs.mcafee.com/bundle/endpoint-security-10.5.0-firewall-product-guide-epolicy-or%20hestrator-windows/page/GUID-397CFD36-3ACE-4047-915C-CDC77527D53C.html* F
+[^2]: https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Antivirus/McAfee.tkape

@@ -6,8 +6,8 @@
 
 ## Application specific files
 
-- C:\Program Files*\TotalAV\logs
-- C:\ProgramData\TotalAV\logs
+* `C:\Program Files*\TotalAV\logs`
+* `C:\ProgramData\TotalAV\logs`
 
 ## Quarantine
 

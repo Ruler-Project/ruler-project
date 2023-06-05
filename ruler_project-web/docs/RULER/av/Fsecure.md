@@ -2,16 +2,16 @@
 
 ## Event logs
 
-## Registry
-
 ## Application specific files
 
-Path: C:\ProgramData\F-Secure\Log\
-Path: C:\Users\%user%\AppData\Local\F-Secure\Log\
-Path: C:\ProgramData\F-Secure\Antivirus\ScheduledScanReports\
+* `C:\ProgramData\F-Secure\Log\`
+* `C:\Users\%user%\AppData\Local\F-Secure\Log\`
+* `C:\ProgramData\F-Secure\Antivirus\ScheduledScanReports\`
 
 ## Quarantine
 
-## References
+## Registry
 
-https://community.f-secure.com/en/discussion/122488/removing-f-secure-log-files-from-internet-security
+## References
+[^1]: [Removing F-secure log files from Internet Security](https://community.f-secure.com/en/discussion/122488/removing-f-secure-log-files-from-internet-security)
+[^2]: [F-Secure FTP](ftp://ftp.f-secure.com/support/tools/debugtools/)

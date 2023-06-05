@@ -31,10 +31,6 @@
 - Reason:     Local databases
 - Database release date:     21/02/2021 10:21:00 p.m.
 ```
-
-## Windows Registry
-
-Have not identified anything other than settings related to detections. Further research required.
   
 ## Application specific files
 
@@ -42,13 +38,15 @@ Unknown at this time
 
 ## Quarantine
 
-Found online [^1]
+Found online: [^1]
 
 Windows XP: %ALLUSERSPROFILE%\Application Data\Kaspersky Lab\AVP\14.0.0\QB
 Windows Vista/7/8: %ALLUSERSPROFILE%\Kaspersky Lab\AVP\14.0.0\QB.
 
+## Registry
+
+Have not identified anything other than settings related to detections. Further research required.
+
 ## References
-
-- [Kaspersky Anti-virus](https://support.kaspersky.com/KAV/21.3/en-US/87342.htm)
-
 [^1]: [Tip Of The Week: Quarantining Suspicious Files](https://www.kaspersky.com.au/blog/tip-of-the-week-quarantining-suspicious-files/3544/)
+[^2]: [Kaspersky Anti-virus](https://support.kaspersky.com/KAV/21.3/en-US/87342.htm)

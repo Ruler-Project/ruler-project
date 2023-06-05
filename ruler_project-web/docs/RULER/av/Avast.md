@@ -2,15 +2,24 @@
 
 ## Event logs
 
-## Registry
 
 ## Application specific files
 
-Path: C:\Documents And Settings\All Users\Application Data\Avast Software\Avast\Log\
-Path: C:\ProgramData\Avast Software\Avast\Log\
-Path: C:\Users\%user%\Avast Software\Avast\Log\
-Path: C:\ProgramData\Avast Software\Avast\Chest\index.xml
+* `C:\ProgramData\AVAST Software\Avast\log\aswAr*.log`
+* `C:\ProgramData\AVAST Software\Avast\log\AvastSvc.log`
+
+Taken from KAPE: 
+
+* `C:\Documents And Settings\All Users\Application Data\Avast Software\Avast\Log\`
+* `C:\ProgramData\Avast Software\Avast\Log\`
+* `C:\Users\%user%\Avast Software\Avast\Log\`
+* `C:\ProgramData\Avast Software\Avast\Chest\index.xml`
 
 ## Quarantine
 
+
+## Registry
+
+
 ## References
+[^1]: [Base Antivirus Logs](https://businesshelp.avast.com/Content/Products/General_Help/LogLocations/BaseAntivirusLogs.htm)

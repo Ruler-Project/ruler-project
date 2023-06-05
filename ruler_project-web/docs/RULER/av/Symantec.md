@@ -47,6 +47,5 @@ AVManLogs
     - Name: registrationInfo.xml
         - Path: C:\ProgramData\Symantec\Symantec Endpoint Protection\*\Data\registrationInfo.xml
 
-# References
-
-"Contains SEPM entries, documented here: https://support.symantec.com/us/en/article.tech196455.html"
+## References
+[^1]: "Contains SEPM entries, documented here: [](https://support.symantec.com/us/en/article.tech196455.html)"

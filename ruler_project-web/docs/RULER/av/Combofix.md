@@ -1,13 +1,15 @@
 # Combofix
 
-## Event logs
+Doesn't work on Win8+
 
-## Registry
+## Event logs
 
 ## Application specific files
 
-Path: C:\ComboFix.txt
+* `C:\ComboFix.txt`
 
 ## Quarantine
+
+## Registry
 
 ## References

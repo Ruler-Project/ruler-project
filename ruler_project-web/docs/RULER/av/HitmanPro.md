@@ -2,14 +2,14 @@
 
 ## Event logs
 
-## Registry
-
 ## Application specific files
 
-Path: C:\ProgramData\HitmanPro\Logs\
-Path: C:\ProgramData\HitmanPro.Alert\Logs\
-Path: C:\ProgramData\HitmanPro.Alert\excalibur.db
+* `C:\ProgramData\HitmanPro\Logs\`
+* `C:\ProgramData\HitmanPro.Alert\Logs\`
+* `C:\ProgramData\HitmanPro.Alert\excalibur.db`
 
 ## Quarantine
+
+## Registry
 
 ## References
