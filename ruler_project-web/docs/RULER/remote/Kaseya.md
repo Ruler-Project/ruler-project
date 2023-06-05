@@ -8,7 +8,7 @@ Interaction is performed through a webapp (that has an installed application for
 ## Application logs
 
 * `C:\ProgramData\Kaseya\Log\Endpoint\Instance_KSAAS###############\KaseyaEndpoint\KaseyaEndpoint-YYYY-MM-DDTHH-MM-SSZ.log`
-* `C:\ProgramData\Kaseya\Log\Endpoint\Instance_KSAAS###############\\Session_92fb5231-0009-44af-bd31-425bf26b8060`
+* `C:\ProgramData\Kaseya\Log\Endpoint\Instance_KSAAS###############\Session_92fb5231-0009-44af-bd31-425bf26b8060`
 
 ### Connection
 
