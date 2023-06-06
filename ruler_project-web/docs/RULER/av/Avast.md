@@ -2,7 +2,6 @@
 
 ## Event logs
 
-
 ## Application specific files
 
 * `C:\ProgramData\AVAST Software\Avast\log\aswAr*.log`
@@ -17,9 +16,7 @@ Taken from KAPE:
 
 ## Quarantine
 
-
 ## Registry
-
 
 ## References
 [^1]: [Base Antivirus Logs](https://businesshelp.avast.com/Content/Products/General_Help/LogLocations/BaseAntivirusLogs.htm)

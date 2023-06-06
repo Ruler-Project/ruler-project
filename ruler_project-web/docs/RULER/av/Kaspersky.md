@@ -2,9 +2,11 @@
 
 ## Event logs
 
-- Provider: avp
-- Channel: Kaspersky Event Log
-- Event log filename: ???
+|Filename|Provider|Channel|EventID|Note
+|-|-|-|-|-
+|?|avp|Kaspersky Event Log|?|?
+|?|OnDemandScan|Kaspersky Security|3203|Threat detected
+|?|Real-Time File Protection|Kaspersky Security|3203|Threat detected (Real-time file protection)
 
 ### Messages of interest
 
@@ -33,8 +35,6 @@
 ```
   
 ## Application specific files
-
-Unknown at this time
 
 ## Quarantine
 
