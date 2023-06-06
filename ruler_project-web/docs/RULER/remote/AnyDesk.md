@@ -53,18 +53,19 @@ GCAPI.DLL is the DLL associated with AnyDesk. You may find this.
 AnyDesk may be used by admins but it's commonly installed by ransomware operators.
 
 ## Resources
-
-1. https://medium.com/mii-cybersec/digital-forensic-artifact-of-anydesk-application-c9b8cfb23ab5
-1. https://www.inversecos.com/2021/02/forensic-analysis-of-anydesk-logs.html
-1. https://medium.com/@inginformatico/forensic-analysis-to-anydesk-forensic-artifacts-and-log-analysis-eng-3897da98324d
-1. https://www.forensafe.com/blogs/anydesk.html
-1. https://hatsoffsecurity.com/2022/02/28/anydesk-forensic-analysis-and-artefacts/
-1. https://docs.velociraptor.app/exchange/artifacts/pages/windows.applications.anydesk/
-1. https://docs.velociraptor.app/exchange/artifacts/pages/windows.applications.anydesk.logparser/
-1. https://support.anydesk.com/knowledge/trace-files#trace-file-locations
-1. https://support.anydesk.com/knowledge/anydesk-id-and-alias
-1. https://vikas-singh.notion.site/vikas-singh/Remote-Access-Software-Forensics-3e38d9a66ca0414ca9c882ad67f4f71b
-1. https://www.iblue.team/incident-response-1/anydesk-remote-access
-1. https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
-1. https://www.youtube.com/watch?v=0qSWfbti4yM&list=PLfouvuAjspToNFRwt0ssrvaSMI11RcSgp&index=7
-1. [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)
+[^1]: [Digital Forensic Artifact of Anydesk Application](https://medium.com/mii-cybersec/digital-forensic-artifact-of-anydesk-application-c9b8cfb23ab5)
+[^2]: [Forensic Analysis of AnyDesk Logs
+](https://www.inversecos.com/2021/02/forensic-analysis-of-anydesk-logs.html)
+[^3]: [Forensic Analysis to Anydesk: Forensic Artifacts and Log Analysis [ENG]](https://medium.com/@inginformatico/forensic-analysis-to-anydesk-forensic-artifacts-and-log-analysis-eng-3897da98324d)
+[^4]: [Investigating AnyDesk](https://www.forensafe.com/blogs/anydesk.html)
+[^5]: [AnyDesk Forensic Analysis and Artefacts](https://hatsoffsecurity.com/2022/02/28/anydesk-forensic-analysis-and-artefacts/)
+[^6]: [Windows.Applications.AnyDesk](https://docs.velociraptor.app/exchange/artifacts/pages/windows.applications.anydesk/)
+[^7]: [Windows.Applications.AnyDesk.LogParser](https://docs.velociraptor.app/exchange/artifacts/pages/windows.applications.anydesk.logparser/)
+[^8]: [Trace Files](https://support.anydesk.com/knowledge/trace-files#trace-file-locations)
+[^9]: [AnyDesk-ID and Alias](https://support.anydesk.com/knowledge/anydesk-id-and-alias)
+[^10]: [Remote Access Software - Forensics](https://vikas-singh.notion.site/vikas-singh/Remote-Access-Software-Forensics-3e38d9a66ca0414ca9c882ad67f4f71b)
+[^11]: [AnyDesk Remote Access](https://www.iblue.team/incident-response-1/anydesk-remote-access)
+[^12]: [LEGITIMATE RATS: A COMPREHENSIVE FORENSIC ANALYSIS OF THE USUAL SUSPECTS
+](https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html)
+[^13]: [Establishing Connections: Illuminating Remote Access Artifacts in Windows](https://www.youtube.com/watch?v=0qSWfbti4yM&list=PLfouvuAjspToNFRwt0ssrvaSMI11RcSgp&index=7)
+[^1]: [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)

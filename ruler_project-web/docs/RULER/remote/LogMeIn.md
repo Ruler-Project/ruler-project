@@ -24,7 +24,6 @@
 |Application.evtx|205|`LogMeIn`| .* ended a Remote Control Session
 
 ## References
-
-1. [An exploration of artefacts of remote desktop applications on Windows](https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1166&context=adf)
-1. [How to View Host Event Log Files](https://support.logmeininc.com/pro/help/how-to-view-logmein-event-log-files-logmein-t-host-preferences-log)
-1. [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)
+[^1]: [An exploration of artefacts of remote desktop applications on Windows](https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1166&context=adf)
+[^2]: [How to View Host Event Log Files](https://support.logmeininc.com/pro/help/how-to-view-logmein-event-log-files-logmein-t-host-preferences-log)
+[^3]: [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)

@@ -62,7 +62,6 @@ Possible values of interest:
 * Client_IP
 
 ## References
-
-1. https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
-1. https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/360001692992
-1. [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)
+[^1]: [LEGITIMATE RATS: A COMPREHENSIVE FORENSIC ANALYSIS OF THE USUAL SUSPECTS](https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html)
+[^2]: [Splashtop Logs](https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/360001692992)
+[^3]: [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)

@@ -24,6 +24,5 @@ Timestamp format: YYYY-MM-DDTHH:MM:SS.SSSSSSZ (UTC)
 * `[I 2020-01-24T04:47:00.268159Z +00:00  3160  f1c] [RemoteControlApplicationService] Shutting down Remote Control Instance #92fb5231-0009-44af-bd31-425bf26b8060`
 
 ## References
-
-1. [Live Connect Log File Locations](https://helpdesk.kaseya.com/hc/en-gb/articles/229009708-Live-Connect-Log-File-Locations)
-1. [KRC log file locations](https://helpdesk.kaseya.com/hc/en-gb/articles/229012748-KRC-log-file-locations)
+[^1]: [Live Connect Log File Locations](https://helpdesk.kaseya.com/hc/en-gb/articles/229009708-Live-Connect-Log-File-Locations)
+[^2]: [KRC log file locations](https://helpdesk.kaseya.com/hc/en-gb/articles/229012748-KRC-log-file-locations)

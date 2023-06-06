@@ -22,5 +22,4 @@ Network connections to "nanosystems.it" on 443/5938
     `Connected with ID|\[Incoming\]|Supremo Closed|\[File Transfer\]`
 
 ## References
-
-1. [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)
+[^1]: [Analysis on legit tools abused in human operated ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)
