@@ -29,7 +29,7 @@ Splashtop website indicates that it has logging available through the web platfo
 |C:\Program Files (x86)\Splashtop\Splashtop Remote\Server\log\SPLog.txt| general logs of the agent. Connection start, hostname, user display name, IP address of the client. File transfer events, chat functionality.|mmm d HH:MM:SS (no year)
 |C:\Program Files (x86)\Splashtop\Splashtop Remote\Server\log\svcinfo.txt|Internal application events|
 |C:\Program Files (x86)\Splashtop\Splashtop Remote\Server\log\sysinfo.txt|Internal application events|
-|Chat functionality??|parties involved in the chat|\[HH:MM\]
+|Chat functionality??|parties involved in the chat|[HH:MM]
 
 Splashtop Gateway:
 

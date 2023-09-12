@@ -20,19 +20,22 @@
 * `...?\detections.log`
 
 
-# Configuration settings/Registry data
+## Configuration settings/Registry data
 
-- HKLM\SOFTWARE\Microsoft\Windows Defender\*
+`HKLM\SOFTWARE\Microsoft\Windows Defender\*`
 
-# Quarantine
+## Quarantine
 
 `C:\ProgramData\Microsoft\Windows Defender\Quarantine`
 
-# References:
+## Tools
+
+[DetectionHistory Parser v1.0.1](https://github.com/jklepsercyber/defender-detectionhistory-parser)
+
+## References:
 [^1]: [Why Are Windows Defender AV Logs So Important And How To Monitor Them With Azure Sentinel?](https://m365internals.com/2021/07/05/why-are-windows-defender-av-logs-so-important-and-how-to-monitor-them-with-azure-sentinel/)
 [^2]: [Review event logs and error codes to troubleshoot issues with Microsoft Defender Antivirus](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/troubleshoot-windows-defender-antivirus)
 [^3]: [DetectionHistory Parser v1.0.1](https://github.com/jklepsercyber/defender-detectionhistory-parser)
 [^4]: [Mind the MPLog: Leveraging Microsoft Protection Logging for Forensic Investigations](https://www.crowdstrike.com/blog/how-to-use-microsoft-protection-logging-for-forensic-investigations/)
-[^5]: https://www.sans.org/blog/uncovering-windows-defender-real-time-protection-history-with-dhparser
-
-[^6]: [](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide)
+[^5]: [Uncovering Windows Defender Real-time Protection History with DHParser](https://www.sans.org/blog/uncovering-windows-defender-real-time-protection-history-with-dhparser)
+[^6]: [Review event logs and error codes to troubleshoot issues with Microsoft Defender Antivirus](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide)

@@ -61,7 +61,7 @@ nav:
             - SUPERAntiSpyware: 'RULER/av/SUPERAntiSpyware.md'
             - SecureAge: 'RULER/av/SecureAge.md'
             - Sophos: 'RULER/av/Sophos.md'
-            - Symantec: 'RULER/av/Symantec.md'
+            - 'Symantec endpoint protection': 'RULER/av/Symantec endpoint protection.md'
             - 'TotalAV Antivirus': 'RULER/av/TotalAV Antivirus.md'
             - 'Trend Micro': 'RULER/av/Trend Micro.md'
             - VIPRE: 'RULER/av/VIPRE.md'
