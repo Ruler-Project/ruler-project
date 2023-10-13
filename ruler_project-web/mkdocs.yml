@@ -84,6 +84,7 @@ nav:
             - Atera: 'RULER/remote/Atera.md'
             - 'Citrix GoToMyPC': 'RULER/remote/Citrix GoToMyPC.md'
             - Kaseya: 'RULER/remote/Kaseya.md'
+            - Level: 'RULER/remote/Level.md'
             - LogMeIn: 'RULER/remote/LogMeIn.md'
             - RealVNC: 'RULER/remote/RealVNC.md'
             - Splashtop: 'RULER/remote/Splashtop.md'
