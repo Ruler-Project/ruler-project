@@ -79,6 +79,7 @@ nav:
         #     - OneDrive: 'RULER/sync/OneDrive.md'
         - 'Remote Administration/Access applications':
             - 'RULER/remote/index.md'
+            - Action1: 'RULER/remote/Action1.md'
             - AmmyAdmin: 'RULER/remote/AmmyAdmin.md'
             - AnyDesk: 'RULER/remote/AnyDesk.md'
             - Atera: 'RULER/remote/Atera.md'
