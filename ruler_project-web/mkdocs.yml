@@ -95,6 +95,7 @@ nav:
             - TightVNC: 'RULER/remote/TightVNC.md'
             - UltraVNC: 'RULER/remote/UltraVNC.md'
             - Ultraviewer: 'RULER/remote/Ultraviewer.md'
+            - Xeox: 'RULER/remote/Xeox.md'
     - Resources: 'resources.md'
     - Contact: contact.md
 
