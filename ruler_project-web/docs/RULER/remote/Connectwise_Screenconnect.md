@@ -12,6 +12,7 @@ Currently named Connectwise, but old Screenconnect name still persists
 |Application.evtx|?|`ScreenConnect Client (<random>)`* or `Screenconnect`| "Executed command of length" (but no command)
 
 * No Evtxecmd map can cover this due to engineering decisions. The result will be in the Payload column.
+* Previous versions had all of the above events in EventID == 1. However, more recent testing showed 100, 101, and 201. The 4th row may still be Event ID == 1. Additional testing needed.
 
 ## References
 [^1]: [Remote Access Software - Forensics](https://vikas-singh.notion.site/vikas-singh/Remote-Access-Software-Forensics-3e38d9a66ca0414ca9c882ad67f4f71b)
