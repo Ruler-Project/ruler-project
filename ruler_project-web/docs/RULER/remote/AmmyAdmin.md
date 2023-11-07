@@ -2,17 +2,15 @@
 
 ## Application logs
 
-|Log path|Notes|Timestamp|
-|-|-|-|
-%ProgramData%\AMMYY\access.log|Connection, disconnection, amount of data transferred|YYYYMMDD-HH:MM:SS.SSSSSS*
+|Log path|Notes|Timestamp|Timezone
+|-|-|-|-|
+%ProgramData%\AMMYY\access.log|Connection, disconnection, amount of data transferred|YYYYMMDD-HH:MM:SS.SSSSSS*|Local|
 
 \* Assumption here about the month and day ordering based on this reference ^[1]^
 
 IP Addresses are for AmmyAdmin
 
 ## Log analysis
-
-Log Timezone: Local
 
 |Search term|Description|
 |-|-

@@ -9,9 +9,9 @@
 * `C:\ProgramData\AVG\Antivirus\log`
 * `C:\ProgramData\AVG\Antivirus\report`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References
 [^1]: [Base Antivirus Logs](https://businesshelp.avg.com/Content/Products/General_Help/LogLocations/BaseAntivirusLogs.htm)

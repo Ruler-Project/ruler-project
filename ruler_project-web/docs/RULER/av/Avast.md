@@ -14,9 +14,9 @@ Taken from KAPE:
 * `C:\Users\%user%\Avast Software\Avast\Log\`
 * `C:\ProgramData\Avast Software\Avast\Chest\index.xml`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References
 [^1]: [Base Antivirus Logs](https://businesshelp.avast.com/Content/Products/General_Help/LogLocations/BaseAntivirusLogs.htm)

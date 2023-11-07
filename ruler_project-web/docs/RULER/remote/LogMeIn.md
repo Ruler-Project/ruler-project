@@ -1,6 +1,14 @@
 # LogMeIn
 
-## Application specific log files
+## Event logs
+
+|Event Log | Event ID | Provider | Message
+|-|-|-|-
+|Application.evtx|102|`LogMeIn`| XXXX has successfully logged on from IP addres X.X.X.X
+|Application.evtx|202|`LogMeIn`| Remote control session started .* from IP address X.X.X.X
+|Application.evtx|205|`LogMeIn`| .* ended a Remote Control Session
+
+## Application logs
 
 `C:\ProgramData\LogMeIn`
 
@@ -14,14 +22,6 @@
 !!! info "Useful grep"
 
     `File transfer|file sharing ticket`
-
-## Event logs
-
-|Event Log | Event ID | Provider | Message
-|-|-|-|-
-|Application.evtx|102|`LogMeIn`| XXXX has successfully logged on from IP addres X.X.X.X
-|Application.evtx|202|`LogMeIn`| Remote control session started .* from IP address X.X.X.X
-|Application.evtx|205|`LogMeIn`| .* ended a Remote Control Session
 
 ## References
 [^1]: [An exploration of artefacts of remote desktop applications on Windows](https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1166&context=adf)

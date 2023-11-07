@@ -1,6 +1,7 @@
 # Xeox
 
-## Binary Files
+## Executables
+
 |Exe Filename| Comments
 |-|-
 |xeox-agent_x64.exe | Single exe

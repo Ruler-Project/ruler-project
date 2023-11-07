@@ -5,6 +5,7 @@ Credentials are generated on install on the victim machine and are not tied to a
 ## Application logs
 
 Log folder: `%ProgramData%\SupremoRemoteDesktop\Log\`
+
 Timestamp format: YYYY-MM-DD HH:MM:SS:SSS
 
 |Log file|Notes

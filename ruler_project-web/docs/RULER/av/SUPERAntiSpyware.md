@@ -6,8 +6,8 @@
 
 * `C:\Users\%user%\AppData\Roaming\SUPERAntiSpyware\Logs\`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References

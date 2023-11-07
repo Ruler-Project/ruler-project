@@ -13,7 +13,7 @@ Unknown
 
 ## Registry
 
-Data in the registry is stored here:
+Data in the registry is stored here[^2]:
 
 * `SOFTWARE --> WOW6432Node\WRData\`
 * Contains execution and monitoring times as well as hashes and detection names

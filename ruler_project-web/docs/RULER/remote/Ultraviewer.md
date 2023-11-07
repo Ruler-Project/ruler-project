@@ -1,6 +1,6 @@
 # Ultraviewer
 
-## Application specific logs
+## Application logs
 
 |File|Notes|
 |-|-

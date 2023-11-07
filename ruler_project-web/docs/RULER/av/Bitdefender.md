@@ -10,9 +10,9 @@
 
 N-sight RMM embeds Bitdefender in `C:\ProgramData\ManagedAntivirus`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References
 [^1]: [How to Scan a PC for viruses with Bitdefender & Export the scan Log](https://www.bitdefender.com/consumer/support/answer/1477/)

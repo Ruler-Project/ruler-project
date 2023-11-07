@@ -1,6 +1,6 @@
 # TeamViewer
 
-## Application specific log files
+## Application logs
 
 Log path: `C:\Program Files\Teamviewer` or `C:\Program Files(x86)\Teamviewer`
 

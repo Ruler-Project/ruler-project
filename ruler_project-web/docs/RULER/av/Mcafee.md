@@ -70,6 +70,10 @@ Appears to be in local time
     f.close()
     ```
 
+## Registry
+
+## Quarantine
+
 ## References
 
 [^1]: [https://techadminblog.com/mcafee-log-file-locations-cheat-sheet-windows/](MCAFEE LOG FILE LOCATIONS CHEAT SHEET – WINDOWS)

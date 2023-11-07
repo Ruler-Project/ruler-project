@@ -1,6 +1,6 @@
 # RealVNC
 
-# Windows event logs
+## Event logs
 
 |Event Log | Event ID | Provider | Notes
 |-|-|-|-
@@ -8,7 +8,7 @@ Application.evtx| 256|VNC Server|"connections authenticated" and includes email 
 
 Application logs are likely going to be the primary investigation source as default text based logs may not be enabled ^[2]^
 
-# Application logs
+## Application logs
 
 Debug logs are stored in the following locations:
 
@@ -24,7 +24,7 @@ Timestamp format: YYYY-MM-DDTHH:MM:SS.SSS
 
 Unsure whether file transfers are tracked.
 
-# Registry keys
+## Registry keys
 
 `HKEY_CURRENT_USER\SOFTWARE\RealVNC\vncviewer\MRU` stores history of external IP addresses connected to
 

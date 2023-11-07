@@ -35,6 +35,8 @@ yyyymmdd hhmmss $message
 
 details to be added
 
+## Quarantine
+
 ## References
 [^1]: [Sophos Central Endpoint and Sophos Central Server: Information on Windows log files](https://community.sophos.com/kb/en-us/133912)
 [^2]: [Sophos Endpoint Security and Control: Information on Windows log files](https://support.sophos.com/support/s/article/KB-000033591?language=en_US)

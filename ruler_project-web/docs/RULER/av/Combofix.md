@@ -8,8 +8,8 @@ Doesn't work on Win8+
 
 * `C:\ComboFix.txt`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References

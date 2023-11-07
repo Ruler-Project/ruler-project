@@ -11,12 +11,12 @@ Parser for `virlog.dat` ^[1]^. Will not show you exclusions being set, this is s
 
 Can also run the [ESET Log Collector](https://www.eset.com/int/support/log-collector/) on a live system (or offline system, if you install a trial of ESET)
 
+## Registry
+
 ## Quarantine
 
 * `C:\Users\%user%\AppData\Local\ESET\ESET Security\Quarantine\`
 * `C:\\Windows\System32\config\systemprofile\AppData\Local\ESET\ESET Security\Quarantine\`
-
-## Registry
 
 ## References
 [^1]: [EsetLogParser](https://github.com/laciKE/EsetLogParser)

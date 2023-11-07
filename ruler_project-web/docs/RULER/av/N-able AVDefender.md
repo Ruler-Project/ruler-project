@@ -16,6 +16,8 @@ Unknown
 
 `\Program Files (x86)\N-able Technologies\Tools\log\EndPointSDK.log`
 
+## Registry
+
 ## Quarantine
 
 * `\Program Files\N-able Technologies\AVDefender\Quarantine\cache.db\`

@@ -9,8 +9,8 @@
 * `C:\Users\%user%\AppData\Roaming\GFI Software\AntiMalware\Logs\`
 * `C:\Users\%user%\AppData\Roaming\Sunbelt Software\AntiMalware\Logs\`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References

@@ -2,21 +2,18 @@
 
 Remote Management and Monitoring application.
 
-## Application specific files
+## Executables
 
 |Platform|File paths|
 |-|-|
 |Windows|C:\Windows\Action1\action1_agent.exe
 |Windows|C:\Windows\Action1\action1_remote.exe
 
+## Application logs
 
-|Filename|Notes|Timestamp format
-|-|-|-|
-|Action1_log_[date-time].log|history, errors, system notifications. Incoming and outgoing connections. Found at C:\Windows\Action1\ |YYMMDD HH:MM:SS
-
-## Log analysis
-
-Log Timezone: UTC
+|Filename|Notes|Timestamp format|Log Timezone
+|-|-|-|-|
+|Action1_log_[date-time].log|history, errors, system notifications. Incoming and outgoing connections. Found at C:\Windows\Action1\ |YYMMDD HH:MM:SS|UTC
 
 |Search term|Description|
 |-|-|

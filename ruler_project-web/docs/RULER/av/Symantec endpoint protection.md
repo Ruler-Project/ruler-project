@@ -12,16 +12,6 @@ Notes: Taken from an email, haven't verified
 |-|-|-|-|-
 |||||
 
-## Quarantine 
-
-* `C:\Documents and Settings\All Users\Application Data\Symantec\Symantec Endpoint Protection\Quarantine\`
-* `C:\ProgramData\Symantec\Symantec Endpoint Protection\*\Data\Quarantine\`
-* `C:\ProgramData\Symantec\Symantec Endpoint Protection\%SEP Version%\Data\Quarantine\`
-
-The .VBN file can be decompress with -- http://hexacorn.com/d/DeXRAY.pl 
-* [VBN File Format Windows](https://github.com/Beercow/SEPparser/wiki/VBN-File-Format-Windows)
-* [VBN File Format Linux](https://github.com/Beercow/SEPparser/wiki/VBN-File-Format-Linux)
-
 ## Application specific files
 
 * `C:\ProgramData\Symantec\Symantec Endpoint Protection\%SEP Version%\Data\AV\Logs\`
@@ -44,6 +34,18 @@ MMDDYYYY.log
 * `C:\Users\%user%\AppData\Local\Symantec\Symantec Endpoint Protection\Logs\`
 * `C:\ProgramData\Symantec\Symantec Endpoint Protection\*\Data\CmnClnt\ccSubSDK\`
 * `C:\ProgramData\Symantec\Symantec Endpoint Protection\*\Data\registrationInfo.xml`
+
+## Registry
+
+## Quarantine 
+
+* `C:\Documents and Settings\All Users\Application Data\Symantec\Symantec Endpoint Protection\Quarantine\`
+* `C:\ProgramData\Symantec\Symantec Endpoint Protection\*\Data\Quarantine\`
+* `C:\ProgramData\Symantec\Symantec Endpoint Protection\%SEP Version%\Data\Quarantine\`
+
+The .VBN file can be decompress with -- http://hexacorn.com/d/DeXRAY.pl 
+* [VBN File Format Windows](https://github.com/Beercow/SEPparser/wiki/VBN-File-Format-Windows)
+* [VBN File Format Linux](https://github.com/Beercow/SEPparser/wiki/VBN-File-Format-Linux)
 
 ## Tools
 

@@ -81,3 +81,8 @@ We welcome contributions to improve The RULER Project. To contribute please fork
 Upon review, the changes will be merged into the project.
 
 Thank you for contributing to The RULER Project!
+
+### Contributors
+
+Phill Moore
+Andrew Skatoff

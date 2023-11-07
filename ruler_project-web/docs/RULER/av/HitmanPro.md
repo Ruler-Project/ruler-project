@@ -8,8 +8,8 @@
 * `C:\ProgramData\HitmanPro.Alert\Logs\`
 * `C:\ProgramData\HitmanPro.Alert\excalibur.db`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References

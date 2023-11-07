@@ -10,13 +10,11 @@ Remote Management and Montirong application.
 |Windows|C:\Windows\Temp\level-windows-amd32.exe
 |Windows|C:\Program Files\Level\level.exe
 
-|Filename|Notes|Timestamp format
-|-|-|-|
-|level.log|history, errors, system notifications. Incoming and outgoing connections. Found at C:\Program Files *\Level\ |YYYY-MM-DD HH:MM:SS.SSS
+|Filename|Notes|Timestamp format|Timezone
+|-|-|-|-|
+|level.log|history, errors, system notifications. Incoming and outgoing connections. Found at C:\Program Files *\Level\ |YYYY-MM-DD HH:MM:SS.SSS|UTC
 
 ## Log analysis
-
-Log Timezone: UTC
 
 |Search term|Description|
 |-|-|

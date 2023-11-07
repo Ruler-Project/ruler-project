@@ -36,16 +36,16 @@
   
 ## Application specific files
 
+## Registry
+
+Have not identified anything other than settings related to detections. Further research required.
+
 ## Quarantine
 
 Found online: [^1]
 
 Windows XP: %ALLUSERSPROFILE%\Application Data\Kaspersky Lab\AVP\14.0.0\QB
 Windows Vista/7/8: %ALLUSERSPROFILE%\Kaspersky Lab\AVP\14.0.0\QB.
-
-## Registry
-
-Have not identified anything other than settings related to detections. Further research required.
 
 ## References
 [^1]: [Tip Of The Week: Quarantining Suspicious Files](https://www.kaspersky.com.au/blog/tip-of-the-week-quarantining-suspicious-files/3544/)

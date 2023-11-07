@@ -6,8 +6,8 @@
 
 * `C:\ProgramData\Emsisoft\Reports\`
 
-## Quarantine
-
 ## Registry
+
+## Quarantine
 
 ## References

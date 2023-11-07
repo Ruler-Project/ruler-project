@@ -1,6 +1,6 @@
 # TightVNC
 
-# Windows event logs
+## Windows event logs
 
 |Event Log | Event ID | Provider | Notes
 |-|-|-|-
@@ -8,7 +8,7 @@ Application.evtx|256|VNC Server|Connection/disconnection including IP address ^[
 
 Application logs are likely going to be the primary investigation source as default text based logs may not be enabled.
 
-# Application logs
+## Application logs
 
 Logs showing connections and file transfers. By default, logging is not enabled.
 
@@ -23,7 +23,7 @@ Timestamp format: YYYY-MM-DD HH:MM:SS
 
     `Incoming.*connection|Client.*connected`
 
-# Registry keys
+## Registry keys
 
 `HKEY_CURRENT_USER\SOFTWARE\TightVNC\vncviewer\MRU` stores history of external IP addresses connected to
 
