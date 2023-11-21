@@ -13,11 +13,12 @@ Remote Management and Monitoring application.
 
 |Filename|Notes|Timestamp format|Log Timezone
 |-|-|-|-|
-|Action1_log_[date-time].log|history, errors, system notifications. Incoming and outgoing connections. Found at C:\Windows\Action1\ |YYMMDD HH:MM:SS|UTC
+|C:\Windows\Action1\Action1_log_[date-time].log|history, errors, system notifications. Incoming and outgoing connections.  |YYMMDD HH:MM:SS|UTC
 
 |Search term|Description|
 |-|-|
 |[REMOTE_SESSION_CONNECT]| Remote session established|
+|[Session::Disconnect]| Remote session closed|
 |Loaded instance Deploy App:| Action1 used to deploy/install additional software|
 
  
