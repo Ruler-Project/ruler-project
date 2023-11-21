@@ -1,7 +1,7 @@
 site_name: The RULER Project
 
 site_description: The Really Useful Logging and Event Repository Project
-copyright: Phill Moore, 2021
+copyright: Phill Moore, 2023
 
 
 theme:
@@ -96,6 +96,7 @@ nav:
             - UltraVNC: 'RULER/remote/UltraVNC.md'
             - Ultraviewer: 'RULER/remote/Ultraviewer.md'
             - Xeox: 'RULER/remote/Xeox.md'
+            - ZohoAssist: 'RULER/remote/ZohoAssist.md'
     - Resources: 'resources.md'
     - Contact: contact.md
 

@@ -9,7 +9,9 @@
 |`C:Program Files (x86)\Ultraviewer\ConnectionLog.log`|connection time, direction, ID number|
 
 Timestamp format: MM/DD/YYYY hh:MM:SS AM
+
 Pipe delimited files.
+
 No IP addresses
 
 ## References

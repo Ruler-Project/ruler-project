@@ -9,10 +9,21 @@ Currently named Connectwise, but old Screenconnect name still persists
 |Application.evtx|100|`ScreenConnect Client (<random>)`* or `Screenconnect`| Cloud account administrator connected
 |Application.evtx|101|`ScreenConnect Client (<random>)`* or `Screenconnect`| Cloud account administrator disconnected
 |Application.evtx|201|`ScreenConnect Client (<random>)`* or `Screenconnect`| Transferred files with action 'Transfer'
-|Application.evtx|?|`ScreenConnect Client (<random>)`* or `Screenconnect`| "Executed command of length" (but no command)
+|Application.evtx|200|`ScreenConnect Client (<random>)`* or `Screenconnect`| "Executed command of length" (but no command is provided)
 
+* There is also a Service install (EID: 7045, System evtx) on screenconnect install.
 * No Evtxecmd map can cover this due to engineering decisions. The result will be in the Payload column.
 * Previous versions had all of the above events in EventID == 1. However, more recent testing showed 100, 101, and 201. The 4th row may still be Event ID == 1. Additional testing needed.
+
+# Application files
+
+* User config - `C:\Windows\SysWOW64\config\systemprofile\AppData\Local\ScreenConnect Client (<random>)\user.config`
+* `%PROGRAMDATA%\ScreenConnect Client (<random>)\`
+* `%PROGRAMFILES(x86)%\ScreenConnect Client (<random>)\`
+* `%SYSTEMROOT%\temp\screenconnect\[version]\`
+* `%USERPROFILE%\Documents\ConnectWiseControl\captures\`
+* `%USERPROFILE%\Documents\ConnectWiseControl\Files\`
+* Scripts - `%SYSTEMROOT%\temp`
 
 ## References
 [^1]: [Remote Access Software - Forensics](https://vikas-singh.notion.site/vikas-singh/Remote-Access-Software-Forensics-3e38d9a66ca0414ca9c882ad67f4f71b)

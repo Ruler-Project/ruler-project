@@ -1,15 +1,15 @@
 # Atera 
 
-Splashtop may be seen in conjunction with Atera RMM usage which is embeddded, but also integrates with other remote desktop applications.
+May see Atera and Splashtop installed at the same time.
 
 ## Event logs
 
 |Event Log | Event ID | Provider | Notes
 |-|-|-|-
 |System|11707|MsiInstaller|MSI installation event|
-|System|7045||Service installation
 |Security|4688|Security|File transfers may be shown as 64 encoded data
 
+There will also likely be EID 7045 Service installation event.
 Atera may also log in Application event logs under AlphaAgent or AteraAgent
 
 ## Log files
