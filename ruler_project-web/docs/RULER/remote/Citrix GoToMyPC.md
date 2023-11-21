@@ -8,13 +8,10 @@
 |g2mcomm.exe | GoToMeeting Meeting Started by Host if CommandLine strings “g2mstart.exe” or “GoTo.exe” or “g2mcomm.exe” which also include the words “Action” AND “Host” 
 |GoToScrUtils.exe, g2mui.exe OR G2MScrUtil64.exe | Where CommandLine includes the string “/cr”, this indicates GoTo is being used to share a screen. 
 
-
-##Log File
+## Log File
 |Filename | Comments
 |-|-
 |C:\Users\AppData\Roaming\GoTo\Logs\goto.log| Search for string "remoteControl" in the log to identify evidence of remote control from a third party.
-
-
 
 ## Registry
 
