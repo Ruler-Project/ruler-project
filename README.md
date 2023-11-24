@@ -25,7 +25,7 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/randomaccess3/ruler-project.git
+   git clone https://github.com/Ruler-Project/ruler-project.git
    ```
 
 2. Create a Python virtual environment.
