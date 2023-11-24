@@ -70,9 +70,9 @@ Before you begin, ensure you have the following prerequisites installed:
 
 ## Contributing
 
-We welcome contributions to improve The RULER Project. To contribute please fork the repository and then create a pull request with any changes.
+We welcome contributions to improve The RULER Project. To contribute please fork the "Develop" branch of the repository and then create a pull request with any changes.
 
-Upon review, the changes will be merged into the project.
+Upon review, the changes will be merged into the project. We will then do a pull request to "Main" which *should* automatically build the gh pages (If the action works...testing in progress...)
 
 Thank you for contributing to The RULER Project!
 
