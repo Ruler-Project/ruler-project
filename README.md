@@ -28,19 +28,13 @@ Before you begin, ensure you have the following prerequisites installed:
    git clone https://github.com/randomaccess3/ruler-project.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd ruler_project-web
-   ```
-
-3. Create a Python virtual environment.
+2. Create a Python virtual environment.
 
    ```bash
    python3 -m venv ruler-project-web
    ```
 
-4. Activate the virtual environment:
+3. Activate the virtual environment:
 
    On Windows:
 
