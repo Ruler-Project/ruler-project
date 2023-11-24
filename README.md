@@ -80,3 +80,4 @@ Thank you for contributing to The RULER Project!
 
 Phill Moore
 Andrew Skatoff
+Zach Stanford
