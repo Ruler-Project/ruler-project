@@ -18,14 +18,13 @@ Remote Management and Monitoring application.
 |Search term|Description|
 |-|-|
 |[REMOTE_SESSION_CONNECT]| Remote session established|
-|[Session::Disconnect]| Remote session closed|
+|[Session::Disconnect]| Remote session closed (also may include "closing relay socket")|
 |Loaded instance Deploy App:| Action1 used to deploy/install additional software|
-
+|Session details: LogonTime| YYYY/MM/DD HH:MM:SS in UTC showing the logon time and UserName|
  
 ## Analyst notes
 - action1_remote.exe is evidence of remote control
 - action1_agent.exe is the basic service binary
   
 
-## Resources
 [^1]: [RMM – action1-client-side-evidence](https://dfirtnt.wordpress.com/2023/08/23/rmm-action1-client-side-evidence/)
