@@ -78,6 +78,6 @@ Thank you for contributing to The RULER Project!
 
 ### Contributors
 
-Phill Moore
-Andrew Skatoff
-Zach Stanford
+* Phill Moore
+* Andrew Skatoff
+* Zach Stanford
