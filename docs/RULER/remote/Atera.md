@@ -32,6 +32,12 @@ Registry key updated on install
 
 * \HKEY_LOCAL_MACHINE\SOFTWARE\ATERA Networks\AlphaAgent\**
 
+!!! info "Atera Account Information"
+
+    If you have the Atera MSI, you can use a tool like ORCA to view the properties of the package and identify the Integrator Login ID (email account)
+    This can also be identified by commandline logging during installation. 
+
+
 ## References
 [^1]: [Windows.Registry.AteraNetworks](https://docs.velociraptor.app/exchange/artifacts/pages/ateranetworks/)
 [^2]: [LEGITIMATE RATS: A COMPREHENSIVE FORENSIC ANALYSIS OF THE USUAL SUSPECTS](https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html)
