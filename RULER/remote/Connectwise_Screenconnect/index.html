@@ -1031,6 +1031,27 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#application-files" class="md-nav__link">
+    Application files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#useful-notes" class="md-nav__link">
+    Useful notes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1200,6 +1221,27 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#application-files" class="md-nav__link">
+    Application files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#useful-notes" class="md-nav__link">
+    Useful notes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1259,16 +1301,19 @@
 <li>No Evtxecmd map can cover this due to engineering decisions. The result will be in the Payload column.</li>
 <li>Previous versions had all of the above events in EventID == 1. However, more recent testing showed 100, 101, and 201. The 4th row may still be Event ID == 1. Additional testing needed.</li>
 </ul>
-<h1 id="application-files">Application files</h1>
+<h2 id="application-files">Application files</h2>
 <ul>
 <li>User config - <code>C:\Windows\SysWOW64\config\systemprofile\AppData\Local\ScreenConnect Client (&lt;random&gt;)\user.config</code></li>
 <li><code>%PROGRAMDATA%\ScreenConnect Client (&lt;random&gt;)\</code></li>
 <li><code>%PROGRAMFILES(x86)%\ScreenConnect Client (&lt;random&gt;)\</code></li>
 <li><code>%SYSTEMROOT%\temp\screenconnect\[version]\</code></li>
 <li><code>%USERPROFILE%\Documents\ConnectWiseControl\captures\</code></li>
-<li><code>%USERPROFILE%\Documents\ConnectWiseControl\Files\</code></li>
+<li>File execution - <code>%USERPROFILE%\Documents\ConnectWiseControl\Temp\malware.exe</code></li>
+<li>File Transfers - <code>%USERPROFILE%\Documents\ConnectWiseControl\Files\</code></li>
 <li>Scripts - <code>%SYSTEMROOT%\temp</code></li>
 </ul>
+<h2 id="useful-notes">Useful notes</h2>
+<p>If you see https://<subdomain>.screenconnect.com, this is the username of the account.<sup>[4]^^[5]</sup></p>
 <h2 id="references">References</h2>
 <div class="footnote">
 <hr />
@@ -1284,6 +1329,9 @@
 </li>
 <li id="fn:4">
 <p><a href="https://dfirtnt.wordpress.com/2023/07/14/rmm-screenconnect-client-side-evidence/">RMM – ScreenConnect: Client-Side Evidence</a>&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:5">
+<p><a href="https://docs.citrix.com/en-us/citrix-secure-private-access/downloads/connect-wise-control.pdf">Configure ConnectWise Control for Single Sign-On</a>&#160;<a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>
