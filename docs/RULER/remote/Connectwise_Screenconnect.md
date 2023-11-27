@@ -22,7 +22,8 @@ Currently named Connectwise, but old Screenconnect name still persists
 * `%PROGRAMFILES(x86)%\ScreenConnect Client (<random>)\`
 * `%SYSTEMROOT%\temp\screenconnect\[version]\`
 * `%USERPROFILE%\Documents\ConnectWiseControl\captures\`
-* `%USERPROFILE%\Documents\ConnectWiseControl\Files\`
+* File execution - `%USERPROFILE%\Documents\ConnectWiseControl\Temp\malware.exe`
+* File Transfers - `%USERPROFILE%\Documents\ConnectWiseControl\Files\`
 * Scripts - `%SYSTEMROOT%\temp`
 
 ## References
