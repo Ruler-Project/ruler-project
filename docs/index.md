@@ -31,7 +31,7 @@ The focus is also on the information relevant to an investigation - what did an 
 
 ## How to contribute
 
-All the source files are on Github. Please make sure to reference where appropriate.
+All the source files are on [Github](https://github.com/Ruler-Project/ruler-project). Please make sure to reference where appropriate.
 This is still very much a work in progress and I'm not 100% sold on the format for each page that I've chosen.
 
 If you have any suggestions or want to contribute, please submit an issue or pull request.

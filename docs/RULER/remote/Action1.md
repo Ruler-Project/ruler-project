@@ -25,6 +25,6 @@ Remote Management and Monitoring application.
 ## Analyst notes
 - action1_remote.exe is evidence of remote control
 - action1_agent.exe is the basic service binary
-  
+- C:\Windows\Action1\package_downloads\ is the staging location for file transfer
 
 [^1]: [RMM – action1-client-side-evidence](https://dfirtnt.wordpress.com/2023/08/23/rmm-action1-client-side-evidence/)
