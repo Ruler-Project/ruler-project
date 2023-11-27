@@ -1,6 +1,6 @@
 # The RULER Project
 
-The Really Useful Logging and Event Repository Project
+The Really Useful Logging and Event Repository Project - [https://ruler-project.github.io/ruler-project/](https://ruler-project.github.io/ruler-project/)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -67,6 +67,10 @@ Before you begin, ensure you have the following prerequisites installed:
    ```
 
 3. Access the website locally by opening a web browser and navigating to http://localhost:8000.
+
+## Adding content
+
+The pages are stored in `docs\RULER\<folder name>\<file>.md` and then need to be referenced within the `mkdocs.yml` file.
 
 ## Contributing
 
