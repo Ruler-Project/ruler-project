@@ -25,6 +25,6 @@ C:\ProgramData\Remote Utilities\install.log
 
 The encrypted Remote Utilities host password and config settings are stored within this key.
 
-## Resources
+## References
 [^1]: [Remote access tool or trojan? How to detect misbehaving RATs](https://redcanary.com/blog/misbehaving-rats/)
 [^2]: [RMM – Level.io: Forensic Artifacts and Evidence](https://www.remoteutilities.com/support/docs/logging/)
