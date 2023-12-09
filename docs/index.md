@@ -38,6 +38,7 @@ If you have any suggestions or want to contribute, please submit an issue or pul
 
 ### Current contributors
 
-* Phill Moore
-* Andrew Skatoff
-* Zach Stanford
+* [Phill Moore](https://github.com/randomaccess3)
+* [Andrew Skatoff](https://github.com/dfirtnt)
+* [Zach Stanford](https://github.com/svch0stz)
+* [Lach-sy](https://github.com/Lach-sy)
