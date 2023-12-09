@@ -11,9 +11,10 @@
 
 ## Application Logs
 
-Logs showing connection history
-C:\ProgramData\Remote Utilities\Logs\rut_log_YYYY-MM.html
-C:\ProgramData\Remote Utilities\install.log
+Logs showing connection history:
+
+* C:\ProgramData\Remote Utilities\Logs\rut_log_YYYY-MM.html
+* C:\ProgramData\Remote Utilities\install.log
 
 |Filename|Notes|Timestamp format|Timezone
 |-|-|-|-|
