@@ -87,6 +87,7 @@ nav:
             - Kaseya: 'RULER/remote/Kaseya.md'
             - Level: 'RULER/remote/Level.md'
             - LogMeIn: 'RULER/remote/LogMeIn.md'
+            - 'Remote Utilities': 'RULER/remote/Remote_Utilities.md'
             - RealVNC: 'RULER/remote/RealVNC.md'
             - Splashtop: 'RULER/remote/Splashtop.md'
             - SupRemo: 'RULER/remote/SupRemo.md'
