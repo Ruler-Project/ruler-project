@@ -1,0 +1,29 @@
+name: Build website on PR to main
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**/*.md'
+      - 'mkdocs.yml'
+      - '.github/workflows/build-on-pr-to-main.yml'
+
+jobs:
+  build:
+    if: github.head_ref == 'dev'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build website
+        run: mkdocs build --strict
