@@ -12,8 +12,8 @@ Application logs are likely going to be the primary investigation source as defa
 
 Debug logs are stored in the following locations:
 
-* `%ProgramData%\RealVBC-Service\**vncserver.log**`
-* `%ProgramData%\RealVBC-Service\**vncserver.log.bak**`
+* `%ProgramData%\RealVNC-Service\**vncserver.log**`
+* `%ProgramData%\RealVNC-Service\**vncserver.log.bak**`
 
 Timestamp is in UTC
 Timestamp format: YYYY-MM-DDTHH:MM:SS.SSS

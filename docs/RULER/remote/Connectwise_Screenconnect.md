@@ -6,13 +6,14 @@ Currently named Connectwise, but old Screenconnect name still persists
 
 |Event Log | Event ID | Provider | Message
 |-|-|-|-
-|Application.evtx|100|`ScreenConnect Client (<random>)`* or `Screenconnect`| Cloud account administrator connected
-|Application.evtx|101|`ScreenConnect Client (<random>)`* or `Screenconnect`| Cloud account administrator disconnected
-|Application.evtx|201|`ScreenConnect Client (<random>)`* or `Screenconnect`| Transferred files with action 'Transfer'
+|Application.evtx|100|`ScreenConnect Client (<random>)`* or `Screenconnect`| <account name> connected
+|Application.evtx|101|`ScreenConnect Client (<random>)`* or `Screenconnect`| <account name> disconnected
+|Application.evtx|201|`ScreenConnect Client (<random>)`* or `Screenconnect`| Transferred files with action '<action>'
 |Application.evtx|200|`ScreenConnect Client (<random>)`* or `Screenconnect`| "Executed command of length" (but no command is provided)
 
 * There is also a Service install (EID: 7045, System evtx) on screenconnect install.
-* No Evtxecmd map can cover this due to engineering decisions. The result will be in the Payload column.
+* No Evtxecmd map can cover older versions this due to engineering decisions. The result will be in the Payload column.
+* Later versions can be mapped, and the account ID will be in the payload (mapped to executable path).
 * Previous versions had all of the above events in EventID == 1. However, more recent testing showed 100, 101, and 201. The 4th row may still be Event ID == 1. Additional testing needed.
 
 ## Application files
