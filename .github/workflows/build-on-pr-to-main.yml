@@ -14,7 +14,7 @@ jobs:
     if: github.head_ref == 'dev'
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,5 +28,5 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build website
-        run: mkdocs build --strict
+      - name: Deploy website
+        run: mkdocs gh-deploy --force --strict
