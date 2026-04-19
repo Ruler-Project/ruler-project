@@ -29,4 +29,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Deploy website
-        run: mkdocs gh-deploy --force --strict
+        run: mkdocs gh-deploy --strict
