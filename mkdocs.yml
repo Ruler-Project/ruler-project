@@ -101,6 +101,11 @@ nav:
     - Resources: 'resources.md'
     - Contact: contact.md
 
+extra:
+  analytics:
+    provider: google
+    property: G-WXKGSEZKTC
+
 plugins:
     - search
 
