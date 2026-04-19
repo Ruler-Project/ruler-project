@@ -1,7 +1,7 @@
-name: Build website on PR to main
+name: Deploy website to GitHub Pages
 
 on:
-  pull_request:
+  push:
     branches:
       - main
     paths:
@@ -11,7 +11,6 @@ on:
 
 jobs:
   build:
-    if: github.head_ref == 'dev'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -29,4 +28,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Deploy website
-        run: mkdocs gh-deploy --strict
+        run: mkdocs gh-deploy --strict --force
