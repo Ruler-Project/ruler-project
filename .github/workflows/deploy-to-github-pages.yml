@@ -1,20 +1,19 @@
-name: Build website on PR to main
+name: Deploy website to GitHub Pages
 
 on:
-  pull_request:
+  push:
     branches:
       - main
     paths:
       - '**/*.md'
       - 'mkdocs.yml'
-      - '.github/workflows/build-on-pr-to-main.yml'
+      - '.github/workflows/deploy-to-github-pages.yml'
 
 jobs:
   build:
-    if: github.head_ref == 'dev'
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,5 +27,5 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build website
-        run: mkdocs build --strict
+      - name: Deploy website
+        run: mkdocs gh-deploy --strict --force
